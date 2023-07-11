@@ -1,0 +1,7 @@
+# NoughtsAndCrosses_And_Laguna
+This game work?\
+???\
+Why game?\
+???\
+Laguna?\
+Yes
