@@ -3,7 +3,7 @@
 Setlocal enabledelayedexpansion
 title Kolko i krzyzyk online
 ::Set your server and color 
-set mm=0
+set mm=4
 set y=7
 set SerwerFTP=112.111.108.111
 set LoginFTP=laguna
